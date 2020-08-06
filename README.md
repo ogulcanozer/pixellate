@@ -11,4 +11,6 @@
 ### Usage :
 ```
 pixellate.py <image> <mask>
+-
+pixellate.py lenna.png 5
 ```
