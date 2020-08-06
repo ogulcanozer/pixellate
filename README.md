@@ -1,6 +1,7 @@
  The script finds the median intensity in a mask for all three color channels and replaces the masked region with the found median.
 
  ## 1. Example outputs :
+1 | 2 | 3
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="./images/lenna.png" width="250">  |  <img src="./images/3x3_pixellated_lenna.png" width="250"> |  <img src="./images/5x5_pixellated_lenna.png" width="250">
 | The original image. | Output with 3x3 mask.| Output with 5x5 mask.
