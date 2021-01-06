@@ -1,4 +1,5 @@
  The script finds the median intensity in a mask for all three color channels and replaces the masked region with the found median.
+ Can be used to create pixel art from real life images.
 
  ## Example outputs :
 | The original image. | Output with 3x3 mask.| Output with 5x5 mask.
